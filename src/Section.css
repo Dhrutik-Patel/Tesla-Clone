@@ -1,0 +1,10 @@
+.section__heading {
+  font-size: 50px;
+  letter-spacing: 1px;
+  font-weight: 500;
+}
+
+.section__paragraph {
+  font-size: 17px;
+  letter-spacing: 1px;
+}
